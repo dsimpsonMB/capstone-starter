@@ -3,7 +3,7 @@
   "editor.formatOnSave": true,
   "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "gitdoc.autoCommitDelay": 15000,
-  "gitdoc.autoPullDelay": 15000,
-  "gitdoc.autoPushDelay": 15000
+  "gitdoc.autoCommitDelay": 31000,
+  "gitdoc.autoPullDelay": 31000,
+  "gitdoc.autoPushDelay": 31000
 }
