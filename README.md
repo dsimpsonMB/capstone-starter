@@ -12,4 +12,5 @@ If during the course of working the project you plan on working on the project e
 
 ### How to start a Live Share session
 
-1. Click the
+1. Click the Live Share button highlighted below in blue.
+   ![]()
