@@ -18,4 +18,4 @@ If during the course of working the project you plan on working on the project e
    ![Popup](https://d.l3n.co/i/oSIKSF.png)
    **Do not click the green button**, this will make your teammates unable to edit the code in the project.
 
-   If the link isn't in your clipboard, you don't see this popup or you need to copy the invite link again, you can get the link by clicking the _"Shared"_ button that has taken the place of the Live Share button shown in step 1 and clicking the first option
+   If the link isn't in your clipboard, you don't see this popup or you need to copy the invite link again, you can get the link by clicking the _"Shared"_ button that has taken the place of the Live Share button shown in step 1 and clicking the first option _"Invite others (copy link)_".
