@@ -12,5 +12,6 @@ If during the course of working the project you plan on working on the project e
 
 ### How to start a Live Share session
 
-1. Click the Live Share button highlighted below in blue.
+1. Click the Live Share button highlighted below in blue. It will be along the very bottom of the left side of the screen
    ![live share button](https://b.l3n.co/i/oSI9f5.png)
+2. A popup will appear in the right bottom corner of your screen like shown below
