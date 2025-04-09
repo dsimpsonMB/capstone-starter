@@ -14,4 +14,8 @@ If during the course of working the project you plan on working on the project e
 
 1. Click the Live Share button highlighted below in blue. It will be along the very bottom of the left side of the screen
    ![live share button](https://b.l3n.co/i/oSI9f5.png)
-2. A popup will appear in the right bottom corner of your screen like shown below
+2. A popup will appear in the right bottom corner of your screen like shown below telling you that the invitation link was copied to your clipboard.
+   ![Popup](https://d.l3n.co/i/oSIKSF.png)
+   **Do not click the green button**, this will make your teammates unable to edit the code in the project.
+
+   If the link isn't in your clipboard, you don't see this popup or you need to copy the invite link again, you can get the link by clicking the
