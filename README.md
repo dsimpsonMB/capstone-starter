@@ -25,9 +25,10 @@ If during the course of working the project you plan on working on the project e
 3. Share this link with your teammates via Slack!
 4. Once your teammate(s) have clicked that link, you may need to accept their request to join the session, it will be another popup on the lower right side of the screen. Click _Accept read-write_ or else your teammate(s) won't be able to edit the files in the codespace
    ![Accepting a collaborator](https://d.l3n.co/i/oSZ4DZ.png)
+5. Your teammates should now have access to the codespace
 
 ### How to join/participate in a Live Share session
 
 1. Click the link shared by your teammate, you will see a popup on the lower right side of your screen asking you if you want to join anonymously or sign in with your Github account. Its best to sign in with the Github account you've created
    ![Join a collaboration session popup](https://b.l3n.co/i/oSZsZc.png)
-2.
+2. You should be ready to start coding at this point!
