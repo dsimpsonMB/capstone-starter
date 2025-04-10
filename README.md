@@ -33,3 +33,7 @@ If during the course of working the project you plan on working on the project e
 1. Click the link shared by your teammate, you will see a popup on the lower right side of your screen asking you if you want to join anonymously or sign in with your Github account. Its best to sign in with the Github account you've created
    ![Join a collaboration session popup](https://b.l3n.co/i/oSZsZc.png)
 2. You should be ready to start coding at this point!
+
+## How to preview your website
+
+1. Right click on the index.html file in the explorer panel
