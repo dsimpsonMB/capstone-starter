@@ -44,5 +44,6 @@ If during the course of working the project you plan on working on the project e
 
 - **Intellisense**
   - If you hover over code you don't understand, VS Code will show a little window with an explanation/information about it
+    ![Intellisense Example](https://d.l3n.co/i/oSTV5P.png)
 - **Dark Theme/Light Theme**
   - You can switch the theme by pressing Ctrl+P and searching for Dark Theme or light theme
