@@ -26,6 +26,7 @@ If during the course of working the project you plan on working on the project e
 4. Once your teammate(s) have clicked that link, you may need to accept their request to join the session, it will be another popup on the lower right side of the screen. Click _Accept read-write_ or else your teammate(s) won't be able to edit the files in the codespace
    ![Accepting a collaborator](https://d.l3n.co/i/oSZ4DZ.png)
 5. Your teammates should now have access to the codespace and you should be able to "see" them as a colored cursor on the screen. You also now have access to a link to open up the session chat on the bottom bar on the left side
+   ![Live Share chat link](https://a.l3n.co/i/oSZaGe.png)
 
 ### How to join/participate in a Live Share session
 
