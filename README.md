@@ -38,3 +38,4 @@ If during the course of working the project you plan on working on the project e
 
 1. Right click on the index.html file in the explorer panel on the left side of the screen.
 2. Click the first option in the dropdown _Open with Live Server_
+   ![Open with Live Server option](https://d.l3n.co/i/oSt7VM.png)
