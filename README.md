@@ -41,4 +41,5 @@ If during the course of working the project you plan on working on the project e
    ![Open with Live Server option](https://d.l3n.co/i/oSt7VM.png)
 
 ## Useful VS Code Features
-- 
+
+- **Intellisense!** If you hover over code you don't understand, VS Code will show a little window with information about it
