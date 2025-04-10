@@ -1,0 +1,2 @@
+let array = [];
+array.forEach();
