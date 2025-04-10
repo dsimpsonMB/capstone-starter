@@ -23,9 +23,10 @@ If during the course of working the project you plan on working on the project e
    ![Shared Popup](https://a.l3n.co/i/oSZ8I5.png)
 
 3. Share this link with your teammates via Slack!
-4. Once your teammate(s) have clicked that link, you will need to accept their request to join the session
+4. Once your teammate(s) have clicked that link, you may need to accept their request to join the session, it will be another popup on the lower right side of the screen.
 
 ### How to join/participate in a Live Share session
 
 1. Click the link shared by your teammate, you will see a popup on the lower right side of your screen asking you if you want to join anonymously or sign in with your Github account. Its best to sign in with the Github account you've created
-   ![Sign]()
+   ![Join a collaboration session popup](https://b.l3n.co/i/oSZsZc.png)
+2.
