@@ -23,7 +23,8 @@ If during the course of working the project you plan on working on the project e
    ![Shared Popup](https://a.l3n.co/i/oSZ8I5.png)
 
 3. Share this link with your teammates via Slack!
-4. Once your teammate(s) have clicked that link, you may need to accept their request to join the session, it will be another popup on the lower right side of the screen.
+4. Once your teammate(s) have clicked that link, you may need to accept their request to join the session, it will be another popup on the lower right side of the screen. Click accept as
+   ![Accepting a collaborator]()
 
 ### How to join/participate in a Live Share session
 
