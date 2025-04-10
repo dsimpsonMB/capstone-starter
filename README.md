@@ -27,4 +27,4 @@ If during the course of working the project you plan on working on the project e
 
 ### How to join/participate in a Live Share session
 
-1. Click the link shared by your teammate,
+1. Click the link shared by your teammate, you will see a popup on the lower right side of your screen asking you if you want to join anonymously or sign in with your Github account.
