@@ -15,7 +15,16 @@ If during the course of working the project you plan on working on the project e
 1. Click the Live Share button highlighted below in blue. It will be along the very bottom of the left side of the screen
    ![live share button](https://b.l3n.co/i/oSI9f5.png)
 2. A popup will appear in the right bottom corner of your screen like shown below telling you that the invitation link was copied to your clipboard.
-   ![Popup](https://d.l3n.co/i/oSIKSF.png)
+   ![Live Share Popup](https://d.l3n.co/i/oSIKSF.png)
    **Do not click the green button**, this will make your teammates unable to edit the code in the project.
 
-   If the link isn't in your clipboard, you don't see this popup or you need to copy the invite link again, you can get the link by clicking the _"Shared"_ button that has taken the place of the Live Share button shown in step 1 and clicking the first option _"Invite others (copy link)_".
+   If the link isn't in your clipboard, you don't see this popup or you need to copy the invite link again, you can get the link by clicking the _"Shared"_ button that has taken the place of the Live Share button shown in step 1 and clicking the first option in the popup (_"Invite others (copy link)_".)
+   ![Shared Button](https://c.l3n.co/i/oSIhUC.png)
+   ![Shared Popup](https://a.l3n.co/i/oSZ8I5.png)
+
+3. Share this link with your teammates via Slack!
+4. Once your teammate(s) have clicked that link, you will need to accept their request to join the session
+
+### How to join/participate in a Live Share session
+
+1. Click the link shared by your teammate
