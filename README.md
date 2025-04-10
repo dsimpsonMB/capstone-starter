@@ -36,4 +36,5 @@ If during the course of working the project you plan on working on the project e
 
 ## How to preview your website
 
-1. Right click on the index.html file in the explorer panel
+1. Right click on the index.html file in the explorer panel on the left side of the screen.
+2. Click the first option in the dropdown _Open with Live Server_
